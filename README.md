@@ -1,11 +1,7 @@
-### After cloning please perform:
+### TDD training resources
 
-```
-git submodule init
-git submodule update
-```
 
-### Some useful links:
+### Some useful TDD links:
 
 * Books
   * [Growing Object-Oriented Software, Guided by Tests / Steve Freeman, Nat Pryce](http://www.growing-object-oriented-software.com/)
